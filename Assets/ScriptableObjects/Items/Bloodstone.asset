@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2aaf5e1ce21c5e4a80eee45f8fc89fa, type: 3}
+  m_Name: Bloodstone
+  m_EditorClassIdentifier: 
+  name: Bloodstone
+  prefab: {fileID: 1336226771503534035, guid: 6d8092d121c7f894a9ae4d09e80491a5, type: 3}
